@@ -1,1 +1,3 @@
-print("yo what's good")
+name = "William Pak"
+
+print(name)
